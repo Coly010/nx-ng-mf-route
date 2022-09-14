@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-ng-mf-route/mylib": ["libs/mylib/src/index.ts"],
+      "@nx-ng-mf-route/pages": ["libs/pages/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

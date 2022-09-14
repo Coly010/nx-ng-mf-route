@@ -56,5 +56,5 @@
       "style": "scss"
     }
   },
-  "defaultProject": "app1"
+  "defaultProject": "host"
 }
